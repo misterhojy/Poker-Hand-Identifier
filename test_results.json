@@ -1,0 +1,158 @@
+{
+  "id": "Criterion v2.4.1",
+  "passed": 28,
+  "failed": 0,
+  "errored": 0,
+  "skipped": 0,
+  "test_suites": [
+    {
+      "name": "base_tests",
+      "passed": 28,
+      "failed": 0,
+      "errored": 0,
+      "skipped": 0,
+      "tests": [
+        {
+          "name": "poker10",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker09",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker08",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker07",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker06",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker05",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker04",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker03",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker02",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "poker01",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "invalid_command03",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "invalid_command02",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "invalid_command01",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode07",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode06",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode05",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode04",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode03",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode02",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "encode01",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode08",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode07",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode06",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode05",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode04",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode03",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode02",
+          "assertions": 1,
+          "status": "PASSED"
+        },
+        {
+          "name": "decode01",
+          "assertions": 1,
+          "status": "PASSED"
+        }
+      ]
+    }
+  ]
+}
